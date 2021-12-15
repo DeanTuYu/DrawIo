@@ -1,1 +1,129 @@
-<mxfile host="app.diagrams.net" modified="2021-12-15T09:54:45.878Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" version="15.9.6" etag="h3HJTzhZ10wLfxmE3ptI" type="github"><diagram id="tIriw7t2etzHq1MpqKQF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-15T10:00:09.641Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="5KSS8UDifD4cpSo-9QeI" version="15.9.6" type="github">
+  <diagram id="tIriw7t2etzHq1MpqKQF" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jS9kKhtzYYaMVbJvK-9i-1" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="80" y="521" width="1075" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="jS9kKhtzYYaMVbJvK-9i-2" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="80" y="291" width="1075" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="jS9kKhtzYYaMVbJvK-9i-3" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="81" y="121" width="1075" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="jS9kKhtzYYaMVbJvK-9i-4" value="后台功能模块" style="html=1;whiteSpace=wrap;fillColor=#AFFFAF;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=node;archiType=square;fontSize=19;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="368" y="591" width="480" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="jS9kKhtzYYaMVbJvK-9i-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;elbow=vertical;html=1;startSize=10;endArrow=block;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=19;dashed=1;" edge="1" parent="1" source="jS9kKhtzYYaMVbJvK-9i-6" target="jS9kKhtzYYaMVbJvK-9i-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="492" y="571" />
+              <mxPoint x="623" y="571" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jS9kKhtzYYaMVbJvK-9i-6" value="仿真车流推送服务" style="html=1;whiteSpace=wrap;fillColor=#AFFFAF;strokeColor=#000000;shape=mxgraph.archimate3.tech;techType=sysSw;fontSize=19;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="422" y="636" width="140" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="jS9kKhtzYYaMVbJvK-9i-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;elbow=vertical;html=1;startSize=10;endArrow=block;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=19;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jS9kKhtzYYaMVbJvK-9i-8" target="jS9kKhtzYYaMVbJvK-9i-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="520.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="732" y="571" />
+              <mxPoint x="623" y="571" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jS9kKhtzYYaMVbJvK-9i-8" value="&lt;div style=&quot;font-size: 19px&quot;&gt;仿真基本信息服务&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#AFFFAF;strokeColor=#000000;shape=mxgraph.archimate3.tech;techType=sysSw;fontSize=19;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="662" y="636" width="140" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="jS9kKhtzYYaMVbJvK-9i-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;elbow=vertical;html=1;startSize=10;endArrow=open;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=19;" edge="1" parent="1" source="jS9kKhtzYYaMVbJvK-9i-11" target="jS9kKhtzYYaMVbJvK-9i-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jS9kKhtzYYaMVbJvK-9i-10" style="rounded=1;elbow=vertical;html=1;startSize=10;endArrow=open;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=19;entryX=0.5;entryY=1;exitX=0.265;exitY=0.007;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="jS9kKhtzYYaMVbJvK-9i-11" target="jS9kKhtzYYaMVbJvK-9i-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="582" y="456" />
+              <mxPoint x="308" y="456" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jS9kKhtzYYaMVbJvK-9i-11" value="服务接口" style="html=1;whiteSpace=wrap;fillColor=#AFFFAF;strokeColor=#000000;shape=mxgraph.archimate3.service;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="536" y="431" width="174" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jS9kKhtzYYaMVbJvK-9i-12" style="rounded=1;elbow=vertical;html=1;startSize=10;endArrow=open;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=19;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="jS9kKhtzYYaMVbJvK-9i-34" target="jS9kKhtzYYaMVbJvK-9i-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="715" y="490.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jS9kKhtzYYaMVbJvK-9i-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;elbow=vertical;html=1;startSize=10;endArrow=open;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=19;entryX=0.5;entryY=1;" edge="1" parent="1" source="jS9kKhtzYYaMVbJvK-9i-11" target="jS9kKhtzYYaMVbJvK-9i-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="679.7647058823529" y="471.7058823529412" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jS9kKhtzYYaMVbJvK-9i-14" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;startSize=10;endArrow=open;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=19;" edge="1" parent="1" source="jS9kKhtzYYaMVbJvK-9i-15" target="jS9kKhtzYYaMVbJvK-9i-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jS9kKhtzYYaMVbJvK-9i-15" value="地图控制" style="shape=component;align=center;strokeColor=#000000;fillColor=#99ffff;gradientColor=none;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="215" y="301" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jS9kKhtzYYaMVbJvK-9i-16" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;startSize=10;endArrow=open;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=19;" edge="1" parent="1" source="jS9kKhtzYYaMVbJvK-9i-17" target="jS9kKhtzYYaMVbJvK-9i-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jS9kKhtzYYaMVbJvK-9i-17" value="仿真车流" style="shape=component;align=center;strokeColor=#000000;fillColor=#99ffff;gradientColor=none;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="423" y="301" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jS9kKhtzYYaMVbJvK-9i-18" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;startSize=10;endArrow=open;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=19;" edge="1" parent="1" source="jS9kKhtzYYaMVbJvK-9i-19" target="jS9kKhtzYYaMVbJvK-9i-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jS9kKhtzYYaMVbJvK-9i-19" value="系统功能" style="shape=component;align=center;strokeColor=#000000;fillColor=#99ffff;gradientColor=none;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="647.5" y="301" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jS9kKhtzYYaMVbJvK-9i-20" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;startSize=10;endArrow=open;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=19;" edge="1" parent="1" source="jS9kKhtzYYaMVbJvK-9i-21" target="jS9kKhtzYYaMVbJvK-9i-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jS9kKhtzYYaMVbJvK-9i-21" value="实时车流" style="shape=component;align=center;strokeColor=#000000;fillColor=#99ffff;gradientColor=none;fontSize=19;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="855" y="301" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jS9kKhtzYYaMVbJvK-9i-22" value="地图操作、二三维地图切换" style="html=1;whiteSpace=wrap;fillColor=#ffff99;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="232.5" y="151" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="jS9kKhtzYYaMVbJvK-9i-23" value="车流渲染" style="html=1;whiteSpace=wrap;fillColor=#ffff99;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="440.5" y="151" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="jS9kKhtzYYaMVbJvK-9i-24" value="概览页、主页、感知页" style="html=1;whiteSpace=wrap;fillColor=#ffff99;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=event;archiType=rounded;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="665" y="151" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="jS9kKhtzYYaMVbJvK-9i-25" value="车流渲染" style="html=1;whiteSpace=wrap;fillColor=#ffff99;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="872.5" y="151" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="jS9kKhtzYYaMVbJvK-9i-29" value="系统结构图" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=4;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="1080" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jS9kKhtzYYaMVbJvK-9i-30" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=19;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="129" y="320" as="sourcePoint" />
+            <mxPoint x="129" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jS9kKhtzYYaMVbJvK-9i-31" value="" style="shape=flexArrow;endArrow=classic;html=1;dashed=1;fontSize=19;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="127" y="560" as="sourcePoint" />
+            <mxPoint x="127" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jS9kKhtzYYaMVbJvK-9i-32" value="WinSocket" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="162" y="261" width="58" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jS9kKhtzYYaMVbJvK-9i-33" value="websocket/webapi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="159" y="499" width="71" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jS9kKhtzYYaMVbJvK-9i-34" value="&lt;div style=&quot;font-size: 19px&quot;&gt;第三方平台&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#AFFFAF;strokeColor=#000000;shape=mxgraph.archimate3.tech;techType=sysSw;fontSize=19;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="878" y="630" width="140" height="64" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
